@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Escape.Android/Escape.Android.csproj" />
+  <Project Path="Escape.Core/Escape.Core.csproj" />
+  <Project Path="Escape.DesktopGL/Escape.DesktopGL.csproj" />
+  <Project Path="Escape.iOS/Escape.iOS.csproj" />
+  <Project Path="Escape.WindowsDX/Escape.WindowsDX.csproj" />
+</Solution>
