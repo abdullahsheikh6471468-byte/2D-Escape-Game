@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EhhPUVc9/IY=",
+  "dgSpecHash": "qx19msXHT9M=",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\Desktop\\Escape\\Escape.WindowsDX\\Escape.WindowsDX.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\Developing\\Game\\Escape\\Escape.WindowsDX\\Escape.WindowsDX.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app\\2.1.30\\microsoft.netcore.app.2.1.30.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.30\\microsoft.netcore.dotnetapphost.2.1.30.nupkg.sha512",

@@ -4181,11 +4181,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\Desktop\\Escape\\Escape.WindowsDX\\Escape.WindowsDX.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Desktop\\Developing\\Game\\Escape\\Escape.WindowsDX\\Escape.WindowsDX.csproj",
       "projectName": "Escape",
-      "projectPath": "C:\\Users\\USER\\Desktop\\Escape\\Escape.WindowsDX\\Escape.WindowsDX.csproj",
+      "projectPath": "C:\\Users\\USER\\Desktop\\Developing\\Game\\Escape\\Escape.WindowsDX\\Escape.WindowsDX.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\Desktop\\Escape\\Escape.WindowsDX\\obj\\",
+      "outputPath": "C:\\Users\\USER\\Desktop\\Developing\\Game\\Escape\\Escape.WindowsDX\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4208,8 +4208,8 @@
           "framework": "net9.0-windows7.0",
           "targetAlias": "net9.0-windows",
           "projectReferences": {
-            "C:\\Users\\USER\\Desktop\\Escape\\Escape.Core\\Escape.Core.csproj": {
-              "projectPath": "C:\\Users\\USER\\Desktop\\Escape\\Escape.Core\\Escape.Core.csproj"
+            "C:\\Users\\USER\\Desktop\\Developing\\Game\\Escape\\Escape.Core\\Escape.Core.csproj": {
+              "projectPath": "C:\\Users\\USER\\Desktop\\Developing\\Game\\Escape\\Escape.Core\\Escape.Core.csproj"
             }
           }
         }

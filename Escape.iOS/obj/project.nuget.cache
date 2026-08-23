@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4gTlNFd8Rgw=",
+  "dgSpecHash": "dejQe2caI6Q=",
   "success": false,
-  "projectFilePath": "C:\\Users\\USER\\Desktop\\Escape\\Escape.iOS\\Escape.iOS.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\Developing\\Game\\Escape\\Escape.iOS\\Escape.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.18\\microsoft.windowsdesktop.app.ref.9.0.18.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.18\\microsoft.netcore.app.ref.9.0.18.nupkg.sha512",
@@ -14,8 +14,8 @@
       "code": "NU1012",
       "level": "Error",
       "message": "Platform version is not present for one or more target frameworks, even though they have specified a platform: net9.0-ios",
-      "projectPath": "C:\\Users\\USER\\Desktop\\Escape\\Escape.iOS\\Escape.iOS.csproj",
-      "filePath": "C:\\Users\\USER\\Desktop\\Escape\\Escape.iOS\\Escape.iOS.csproj",
+      "projectPath": "C:\\Users\\USER\\Desktop\\Developing\\Game\\Escape\\Escape.iOS\\Escape.iOS.csproj",
+      "filePath": "C:\\Users\\USER\\Desktop\\Developing\\Game\\Escape\\Escape.iOS\\Escape.iOS.csproj",
       "targetGraphs": []
     }
   ]

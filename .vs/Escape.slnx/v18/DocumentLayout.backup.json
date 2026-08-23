@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\Escape\\",
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\Developing\\Game\\Escape\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4F887160-0BAC-0BF9-1988-D0071D2AFAA1}|Escape.WindowsDX\\Escape.WindowsDX.csproj|c:\\users\\user\\desktop\\escape\\escape.windowsdx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4F887160-0BAC-0BF9-1988-D0071D2AFAA1}|Escape.WindowsDX\\Escape.WindowsDX.csproj|c:\\users\\user\\desktop\\developing\\game\\escape\\escape.windowsdx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F887160-0BAC-0BF9-1988-D0071D2AFAA1}|Escape.WindowsDX\\Escape.WindowsDX.csproj|solutionrelative:escape.windowsdx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Escape\\Escape.WindowsDX\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Developing\\Game\\Escape\\Escape.WindowsDX\\Program.cs",
               "RelativeDocumentMoniker": "Escape.WindowsDX\\Program.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\Escape\\Escape.WindowsDX\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Developing\\Game\\Escape\\Escape.WindowsDX\\Program.cs",
               "RelativeToolTip": "Escape.WindowsDX\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-18T15:03:03.927Z",
               "EditorCaption": ""

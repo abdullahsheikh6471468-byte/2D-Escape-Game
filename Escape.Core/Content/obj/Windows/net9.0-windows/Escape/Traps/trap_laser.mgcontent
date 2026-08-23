@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>C:/Users/USER/Desktop/Escape/Escape.Core/Content/Traps/trap_laser.png</SourceFile>
+  <SourceFile>C:/Users/USER/Desktop/Developing/Game/Escape/Escape.Core/Content/Traps/trap_laser.png</SourceFile>
   <SourceTime>2026-08-18T19:57:50.1045259+05:00</SourceTime>
-  <DestFile>C:/Users/USER/Desktop/Escape/Escape.Core/Content/bin/Windows/Escape/Traps/trap_laser.xnb</DestFile>
-  <DestTime>2026-08-18T20:03:50.5927571+05:00</DestTime>
+  <DestFile>C:/Users/USER/Desktop/Developing/Game/Escape/Escape.Core/Content/bin/Windows/Escape/Traps/trap_laser.xnb</DestFile>
+  <DestTime>2026-08-20T18:26:15.2006534+05:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2026-07-15T21:21:24+05:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
