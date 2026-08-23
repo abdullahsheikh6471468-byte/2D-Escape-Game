@@ -3,7 +3,6 @@
 A 10-level top-down escape/adventure game built in C# with MonoGame.
 
 **Author:** Abdullah
-**Roll No.:** _(add your roll number here)_
 
 ---
 
